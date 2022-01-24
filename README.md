@@ -6,11 +6,11 @@
 
 ### Application Deployed to Heroku
 
-
+[https://book-lib-fun.herokuapp.com/](https://book-lib-fun.herokuapp.com/)
 
 ### Application Screenshot
 
-
+![image of app](./images/sc1.png)
 
 ### User Story
 
