@@ -19,7 +19,7 @@ server.applyMiddleware({ app });
 
 app.use(express.urlencoded({ extended: true }));
 app.use(express.json());
-	@@ -14,8 +25,13 @@ if (process.env.NODE_ENV === 'production') {
+	if (process.env.NODE_ENV === 'production') {
     app.use(express.static(path.join(__dirname, '../client/build')));
 }
 
