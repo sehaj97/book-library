@@ -1,8 +1,7 @@
 import React from 'react';
 import { ApolloProvider } from '@apollo/react-hooks';
 import {
-  ApolloClient,
-  ApolloProvider
+  ApolloClient
 } from "@apollo/client";
 import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';
 import Navbar from './components/Navbar';
