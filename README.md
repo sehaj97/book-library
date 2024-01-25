@@ -4,10 +4,6 @@
 
 *A MERN stack application using Google Books API that allows a user to login, search books and save favorites.*
 
-### Application Deployed to Heroku
-
-[https://book-lib-fun.herokuapp.com/](https://book-lib-fun.herokuapp.com/)
-
 ### Application Screenshot
 
 ![image of app](./images/sc1.png)
